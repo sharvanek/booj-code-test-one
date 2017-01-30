@@ -1,4 +1,4 @@
-# Booj Code Test One
+# Booj Code Test
 
 ## 1. Equilibrium Indexes.
 
